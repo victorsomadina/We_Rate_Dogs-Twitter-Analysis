@@ -5,3 +5,4 @@ Secondly, I performed **data assessment** where I pointed out the tidyness and q
 Then, **data cleaning**. This is the most challenging part of the project.
 I merged the three datasets and performed a simple exploratory analysis to check for further data issues that might be present in the dataset.
 Finally, using power bi, I created a dashboard that shows some key insight in the dataset.
+![20220921_084714](https://user-images.githubusercontent.com/103338741/191446918-dd48fd8b-56b1-4755-a352-c41aefa4bb74.jpg)
